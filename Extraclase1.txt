@@ -1,1 +1,28 @@
-Extraclase #1Andres Quiros Que es git:Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad.Clone:git clone se utiliza principalmente para apuntar a un repositorio existente y clonar o copiar dicho repositorio en un nuevo directorio, en otra ubicación. Push:El comando git push se usa para cargar contenido del repositorio local a un repositorio remoto.Commit:El comando git commit guarda y confirma los cambios hechos en ese momento del proyectoPull:El comando git pull se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
+Extraclase #1
+Andres Quiros 
+
+Que es git:
+
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. 
+Estos repositorios locales plenamente funcionales permiten trabajar sin conexi‚Äîn o de forma remota con facilidad.
+
+Clone:
+
+git clone se utiliza principalmente para apuntar a un repositorio existente y 
+clonar o copiar dicho repositorio en un nuevo directorio, en otra ubicaci‚Äîn. 
+
+
+Push:
+
+El comando git push se usa para cargar contenido 
+del repositorio local a un repositorio remoto.
+
+Commit:
+
+El comando git commit guarda y confirma 
+los cambios hechos en ese momento del proyecto
+
+Pull:
+
+El comando git pull se emplea para extraer y descargar contenido desde un 
+repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
